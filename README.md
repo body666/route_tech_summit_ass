@@ -1,27 +1,5 @@
 # Route Task
 
-<div align="start">
-<!--      <a href="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
-        <img src="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
-    </a> -->
-    <a href="https://www.linkedin.com/in/ibrahim-haroon-omran-a35444222/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="mailto:omranibraheem705@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-    <a href="https://youtube.com/@ibrahimomran8085?si=bHNizIHn9dIL3jX7">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-<!--   </a>
-     <a href="https://mostaql.com/u/ammarageeza/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a> -->
-     </a>
-     <a href="https://t.me/Eng_Ibrahim_Omran_705">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
-
 ## 🚀 Getting Started
 
 - Application to Show Product.
