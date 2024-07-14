@@ -6,8 +6,12 @@
 
 ## 🤳 Screens
 
-- **Product Screen:** Show Products. 
+- **Product Screen:** Show Products.
+- 
+##UI Implementation
+![WhatsApp Image 2024-07-14 at 19 31 52_7b44584f](https://github.com/user-attachments/assets/d9a6aed5-8d59-405e-8c70-cb25632d7032)
 
+![WhatsApp Image 2024-07-14 at 19 31 53_d338cac3](https://github.com/user-attachments/assets/d1c41d3f-98f4-4535-a908-8fec589a628d)
 
 
 <hr>
