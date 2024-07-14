@@ -46,17 +46,10 @@
   </a>
  -->
 
-## 📁 File Structure
-
-![Screenshot (195)](https://github.com/Ibrahim-Omran/Route-Task/assets/112516011/84c910e3-a307-469f-a563-55404f9fca95)
 
 
 
-## 📱 UI
 
-
-![Screenshot (193)](https://github.com/Ibrahim-Omran/Route-Task/assets/112516011/658a8e67-1736-4ba2-a97b-4fcec8d17ecc)
-![Screenshot (192)](https://github.com/Ibrahim-Omran/Route-Task/assets/112516011/b347d111-8eda-417e-bfea-4925304f10f4)
 
 
 
