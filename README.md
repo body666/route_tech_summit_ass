@@ -1,35 +1,18 @@
 # Route Task
 
-<div align="start">
-<!--      <a href="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
-        <img src="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
-    </a> -->
-    <a href="https://www.linkedin.com/in/ibrahim-haroon-omran-a35444222/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="mailto:omranibraheem705@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-    <a href="https://youtube.com/@ibrahimomran8085?si=bHNizIHn9dIL3jX7">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-<!--   </a>
-     <a href="https://mostaql.com/u/ammarageeza/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a> -->
-     </a>
-     <a href="https://t.me/Eng_Ibrahim_Omran_705">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
-
 ## 🚀 Getting Started
 
 - Application to Show Product.
 
 ## 🤳 Screens
 
-- **Product Screen:** Show Products. 
+- **Product Screen:** Show Products.
 
+![WhatsApp Image 2024-07-14 at 19 31 52_7b44584f](https://github.com/user-attachments/assets/d9a6aed5-8d59-405e-8c70-cb25632d7032)
+
+
+
+![WhatsApp Image 2024-07-14 at 19 31 53_d338cac3](https://github.com/user-attachments/assets/d1c41d3f-98f4-4535-a908-8fec589a628d)
 
 
 <hr>
@@ -46,17 +29,14 @@
   </a>
  -->
 
-## 📁 File Structure
 
-![Screenshot (195)](https://github.com/Ibrahim-Omran/Route-Task/assets/112516011/84c910e3-a307-469f-a563-55404f9fca95)
-
+## 🚀 File Structure
 
 
-## 📱 UI
+![Screenshot 2024-07-14 185100](https://github.com/user-attachments/assets/3923b884-f38e-4149-8e46-a0031d80416d)
 
 
-![Screenshot (193)](https://github.com/Ibrahim-Omran/Route-Task/assets/112516011/658a8e67-1736-4ba2-a97b-4fcec8d17ecc)
-![Screenshot (192)](https://github.com/Ibrahim-Omran/Route-Task/assets/112516011/b347d111-8eda-417e-bfea-4925304f10f4)
+
 
 
 
