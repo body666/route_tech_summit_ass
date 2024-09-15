@@ -25,24 +25,24 @@ class ProductScreen extends StatelessWidget {
                 : Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      SizedBox(
-                        height: 60.h,
-                      ),
+                      // SizedBox(
+                      //   height: 60.h,
+                      // ),
 
                       // Logo App
-                      Image.asset(
-                        AppAssets.appLogoSvg,
-                        width: 70.w,
-                      ),
+                      // Image.asset(
+                      //   AppAssets.appLogoSvg,
+                      //   width: 70.w,
+                      // ),
 
                       SizedBox(
                         height: 10.h,
                       ),
 
                       // Search Product And Add Product To Cart
-                      SearchAndCartComponent(
-                        cubit: cubit,
-                      ),
+                      // SearchAndCartComponent(
+                      //   cubit: cubit,
+                      // ),
 
 
 

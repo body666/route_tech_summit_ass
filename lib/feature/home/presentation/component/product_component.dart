@@ -27,7 +27,7 @@ class ProductComponent extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: 220.w,
-      height: 250.h,
+      height: 100.h,
       decoration: BoxDecoration(
         border: Border.all(
           color: AppColors.lightBlue,

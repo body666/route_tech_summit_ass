@@ -8,10 +8,9 @@ void main()async {
   WidgetsFlutterBinding.ensureInitialized();
   initServiceLocator();
   await sl<CacheHelper>().init();
-
   runApp(
       BlocProvider(
-          create: (context) => sl<ProductCubit>()..getAllProduct(),
+        create: (context) => sl<ProductCubit>()..getAllProduct(),
         child:  const RouteApp(),
       )
 
